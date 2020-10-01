@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1601586536 source:/Users/administador/Desktop/tp2/Tp2/arrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1601585955 /Users/administador/Desktop/tp2/Tp2/arrayEmployees.h
+
+1601584321 source:/Users/administador/Desktop/tp2/Tp2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1601590037 source:/Users/administador/Desktop/tp2/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1601592253 /Users/administador/Desktop/tp2/TP2/arrayEmployees.h
+
